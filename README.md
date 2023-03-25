@@ -2,7 +2,7 @@
 Experimenting with various time series concepts and statistical/econometric models to solve business problems. The goal is to increase exposure to different open source projects to find gaps where I can contribute issues/bug reports or even my own package.
 
 ## Learning Strategy
-Code a little every day after work and do extended sessions during weekends.
+Code a little every day after work (0.5h) and do extended sessions (1-2h) during weekends.
 
 
 # Key Components
