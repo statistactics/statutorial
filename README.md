@@ -1,7 +1,11 @@
 # Project Description
 Experimenting with various time series concepts and statistical/econometric models to solve business problems
 
-# Key concepts to explore:
+## Learning Strategy
+Code a little every day after work and do extended sessions during weekends.
+
+
+# Key Components
 
 ## Modelling lagged relationships between 2 time series
 1. Prewhitening two time series to eliminate common trend structures for cross-correlation calculation
