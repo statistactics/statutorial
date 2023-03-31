@@ -9,7 +9,7 @@ Code a little every day after work (0.5h) and do extended sessions (1-2h) during
 
 ## Modelling lagged relationships between 2 time series
 1. Prewhitening two time series to eliminate common trend structures for cross-correlation calculation
-2. ARDL, UECM, VECM modelling for known cointegrated economic relationships
+2. ARDL, UECM, VECM modelling for known cointegrated economic relationships. Test Impulse Response Function.
 3. Stepwise regression to identify leading indicators 
 
 ## Demand forecasting models
